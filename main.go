@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func main()  {
-	fmt.Println("Hola Mundo!") // eliminar esta línea
+func main() {
+	fmt.Println("helloworld") // eliminar esta línea
 }
